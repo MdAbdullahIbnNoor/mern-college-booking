@@ -1,0 +1,269 @@
+[
+    {
+      "name": "Dhaka College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986039/301695555_612147637274978_1284916907395705739_n.jpg_jlpjlu.jpg",
+      "admissionDates": "2024-01-10 to 2024-02-15",
+      "events": [
+        "Annual Science Fair - 2024-03-12",
+        "Cultural Fest - 2024-04-05"
+      ],
+      "researchHistory": [
+        "Research on Renewable Energy (2023)",
+        "Study of Urban Development in Dhaka (2022)"
+      ],
+      "sports": [
+        "Football",
+        "Cricket",
+        "Table Tennis"
+      ],
+      "rating": 4.5
+    },
+    {
+      "name": "Notre Dame College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986701/326686271_1584597575317297_5371468743110809922_n.jpg_y6dud9.jpg",
+      "admissionDates": "2024-02-01 to 2024-03-10",
+      "events": [
+        "Debate Competition - 2024-05-15",
+        "Inter-College Sports Championship - 2024-06-12"
+      ],
+      "researchHistory": [
+        "Study on Climate Change Impact in Bangladesh (2023)",
+        "Water Pollution in Dhaka (2022)"
+      ],
+      "sports": [
+        "Basketball",
+        "Volleyball",
+        "Swimming"
+      ],
+      "rating": 4.8
+    },
+    {
+      "name": "Rajshahi College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986777/455191127_2307328872942343_5799864335392470605_n.jpg_ys0jxb.jpg",
+      "admissionDates": "2024-03-05 to 2024-04-20",
+      "events": [
+        "Rajshahi Cultural Festival - 2024-05-08",
+        "Science Olympiad - 2024-06-01"
+      ],
+      "researchHistory": [
+        "Study of Agricultural Practices in Rajshahi (2022)",
+        "History of Silk Industry in Rajshahi (2023)"
+      ],
+      "sports": [
+        "Badminton",
+        "Cricket",
+        "Football"
+      ],
+      "rating": 4.6
+    },
+    {
+      "name": "Chittagong College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986930/375599324_692423672911092_4236323075923168971_n.jpg_szrzk1.jpg",
+      "admissionDates": "2024-04-10 to 2024-05-25",
+      "events": [
+        "Tech Carnival - 2024-07-10",
+        "Annual Sports Day - 2024-08-20"
+      ],
+      "researchHistory": [
+        "Marine Life Study of the Bay of Bengal (2023)",
+        "Fisheries Development in Chittagong (2022)"
+      ],
+      "sports": [
+        "Tennis",
+        "Cricket",
+        "Swimming"
+      ],
+      "rating": 4.7
+    },
+    {
+      "name": "Eden Mohila College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987036/10346283_539584832813009_6962788366271465900_n.jpg_z5b6r7.jpg",
+      "admissionDates": "2024-01-15 to 2024-03-05",
+      "events": [
+        "Women in Science Symposium - 2024-03-08",
+        "Cultural Program - 2024-04-25"
+      ],
+      "researchHistory": [
+        "Study on Women's Education in Bangladesh (2022)",
+        "Research on Women Entrepreneurs (2023)"
+      ],
+      "sports": [
+        "Badminton",
+        "Table Tennis",
+        "Basketball"
+      ],
+      "rating": 4.4
+    },
+    {
+      "name": "St. Joseph Higher Secondary School",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987354/300017094_372394631759257_5209806584433698891_n.jpg_uyhokb.jpg",
+      "admissionDates": "2024-02-05 to 2024-03-10",
+      "events": [
+        "Science Fair - 2024-04-10",
+        "Sports Week - 2024-05-20"
+      ],
+      "researchHistory": [
+        "Study on Green Energy Solutions (2023)",
+        "AI Research in Education (2022)"
+      ],
+      "sports": [
+        "Basketball",
+        "Football",
+        "Badminton"
+      ],
+      "rating": 4.9
+    },
+    {
+      "name": "Viqarunnisa Noon College",
+      "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987462/353457108_598005552400616_7117294749597957037_n.jpg_wfqxmj.jpg",
+      "admissionDates": "2024-01-20 to 2024-03-15",
+      "events": [
+        "Cultural Day - 2024-04-15",
+        "Inter-School Debate - 2024-05-30"
+      ],
+      "researchHistory": [
+        "Study on Women Empowerment (2023)",
+        "Research on Environmental Conservation (2022)"
+      ],
+      "sports": [
+        "Table Tennis",
+        "Basketball",
+        "Volleyball"
+      ],
+      "rating": 4.7
+    },
+    {
+        "name": "Sylhet Government College",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986039/301695555_612147637274978_1284916907395705739_n.jpg_jlpjlu.jpg",
+        "admissionDates": "2024-03-15 to 2024-04-30",
+        "events": [
+            "Sylhet Art Exhibition - 2024-06-10",
+            "Cultural Night - 2024-07-15"
+        ],
+        "researchHistory": [
+            "Research on Tea Industry in Sylhet (2023)",
+            "Study of Rural Development (2022)"
+        ],
+        "sports": [
+            "Football",
+            "Volleyball",
+            "Cricket"
+        ],
+        "rating": 4.6
+    },
+    {
+        "name": "Khulna Government College",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986701/326686271_1584597575317297_5371468743110809922_n.jpg_y6dud9.jpg",
+        "admissionDates": "2024-02-15 to 2024-03-25",
+        "events": [
+            "Khulna Science Fair - 2024-05-20",
+            "Annual Sports Fest - 2024-06-25"
+        ],
+        "researchHistory": [
+            "Marine Biology Studies (2023)",
+            "Research on Urbanization in Khulna (2022)"
+        ],
+        "sports": [
+            "Cricket",
+            "Basketball",
+            "Swimming"
+        ],
+        "rating": 4.5
+    },
+    {
+        "name": "Barisal College",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986777/455191127_2307328872942343_5799864335392470605_n.jpg_ys0jxb.jpg",
+        "admissionDates": "2024-04-01 to 2024-05-15",
+        "events": [
+            "Barisal Literary Festival - 2024-07-05",
+            "Tech Expo - 2024-08-10"
+        ],
+        "researchHistory": [
+            "Flood Management Research (2022)",
+            "Barisal's Economic Development Study (2023)"
+        ],
+        "sports": [
+            "Football",
+            "Tennis",
+            "Table Tennis"
+        ],
+        "rating": 4.4
+    },
+    {
+        "name": "Mymensingh Agricultural University",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725986930/375599324_692423672911092_4236323075923168971_n.jpg_szrzk1.jpg",
+        "admissionDates": "2024-05-01 to 2024-06-15",
+        "events": [
+            "Agricultural Innovations Fair - 2024-08-15",
+            "Annual Research Symposium - 2024-09-10"
+        ],
+        "researchHistory": [
+            "Crop Genetics Research (2023)",
+            "Sustainable Agriculture Practices (2022)"
+        ],
+        "sports": [
+            "Cricket",
+            "Football",
+            "Badminton"
+        ],
+        "rating": 4.7
+    },
+    {
+        "name": "Dhaka City College",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987036/10346283_539584832813009_6962788366271465900_n.jpg_z5b6r7.jpg",
+        "admissionDates": "2024-02-20 to 2024-03-30",
+        "events": [
+            "Dhaka Music Festival - 2024-04-20",
+            "Sports Day - 2024-05-25"
+        ],
+        "researchHistory": [
+            "Urban Mobility Study (2022)",
+            "Research on Social Issues in Dhaka (2023)"
+        ],
+        "sports": [
+            "Basketball",
+            "Table Tennis",
+            "Volleyball"
+        ],
+        "rating": 4.5
+    },
+    {
+        "name": "Jahangirnagar University",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987354/300017094_372394631759257_5209806584433698891_n.jpg_uyhokb.jpg",
+        "admissionDates": "2024-03-10 to 2024-04-25",
+        "events": [
+            "Annual Academic Conference - 2024-06-05",
+            "Inter-University Debate - 2024-07-10"
+        ],
+        "researchHistory": [
+            "Sociological Study of Urban Areas (2022)",
+            "Environmental Sustainability Research (2023)"
+        ],
+        "sports": [
+            "Football",
+            "Cricket",
+            "Tennis"
+        ],
+        "rating": 4.8
+    },
+    {
+        "name": "Khulna University of Engineering & Technology",
+        "image": "https://res.cloudinary.com/dbx1yvkpi/image/upload/v1725987462/353457108_598005552400616_7117294749597957037_n.jpg_wfqxmj.jpg",
+        "admissionDates": "2024-01-30 to 2024-03-20",
+        "events": [
+            "Tech Innovations Exhibition - 2024-05-10",
+            "Annual Sports Fest - 2024-06-15"
+        ],
+        "researchHistory": [
+            "Engineering Solutions for Rural Development (2023)",
+            "Tech Innovations in Bangladesh (2022)"
+        ],
+        "sports": [
+            "Cricket",
+            "Badminton",
+            "Football"
+        ],
+        "rating": 4.9
+    }
+  ]
+  
