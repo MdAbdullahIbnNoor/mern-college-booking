@@ -7,19 +7,22 @@ import Admission from './components/pages/Admission';
 import Profile from './components/pages/Profile';
 import Navbar from './components/layout/Navbar';
 import NotFound from './components/pages/NotFound';
+import { useAuth } from './hooks/useAuth';
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        {/* <Route path="/colleges" element={<Colleges />} /> */}
-        <Route path="/admission" element={<Admission />} />
-        {/* <Route path="/my-college" element={<MyCollege />} /> */}
-        <Route path="/profile" element={<Profile />} />
-        <Route path="*" element={<NotFound />} />
-      </Routes>
+      <useAuth>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          {/* <Route path="/colleges" element={<Colleges />} /> */}
+          <Route path="/admission" element={<Admission />} />
+          {/* <Route path="/my-college" element={<MyCollege />} /> */}
+          <Route path="/profile" element={<Profile />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </useAuth>
     </div>
   );
 }

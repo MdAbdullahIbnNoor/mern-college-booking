@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { auth } from '../../firebase';
 import { useNavigate } from 'react-router-dom';
 
 const Profile = () => {
@@ -11,15 +10,15 @@ const Profile = () => {
   const [address, setAddress] = useState('');
   const navigate = useNavigate();
 
-  useEffect(() => {
-    const currentUser = auth.currentUser;
-    if (currentUser) {
-      setUser(currentUser);
-      setName(currentUser.displayName);
-      setEmail(currentUser.email);
-      // Fetch additional profile info from database here
-    }
-  }, []);
+  // useEffect(() => {
+  //   const currentUser = auth.currentUser;
+  //   if (currentUser) {
+  //     setUser(currentUser);
+  //     setName(currentUser.displayName);
+  //     setEmail(currentUser.email);
+  //     // Fetch additional profile info from database here
+  //   }
+  // }, []);
 
   const handleSave = async () => {
     try {
